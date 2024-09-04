@@ -3,10 +3,10 @@ ini_set('display_errors',1);
 ini_set('display_startup_errors',1);
 error_reporting(E_ALL);
 
-$servername = "0.0.0.0:3306";
-$username = "root";
-$password = "root";
-$dbname = "ecommerce";
+$servername = "sql307.byetcluster.com";
+$username = "jericoprog74@gmail.com";
+$password = "R7542s@n";
+$dbname = "if0_37245290_ecommerce";
 
 $connect = new mysqli($servername,$username,$password,$dbname);
 if ($connect->connect_error) {
