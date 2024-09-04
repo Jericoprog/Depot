@@ -3,8 +3,8 @@ ini_set('display_errors',1);
 ini_set('display_startup_errors',1);
 error_reporting(E_ALL);
 
-$servername = "sql307.byetcluster.com";
-$username = "jericoprog74@gmail.com";
+$servername = "sql307.infinityfree.com";
+$username = "ifo_37245290";
 $password = "R7542s@n";
 $dbname = "if0_37245290_ecommerce";
 
